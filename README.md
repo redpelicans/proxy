@@ -1,7 +1,7 @@
 # Proxy
 
 nodejs proxy to be used in case many services are bounded to one host.
-It use virtual hosting to route to backends.
+It uses virtual hosting to route to backends.
 
 
 ### Setup
