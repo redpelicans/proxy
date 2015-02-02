@@ -4,13 +4,11 @@ nodejs proxy to be used in case many services are bounded to one host.
 It use virtual hosting to route to backends.
 
 
-# Setup
+### Setup
 
 Edit server.js, change ROUTER const to your need
 
-
-
-# run it as :
+### Run it
 
     # cd /files/apps
     # git clone https://github.com/redpelicans/proxy.git
